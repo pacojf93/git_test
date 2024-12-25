@@ -1,0 +1,3 @@
+# Hello World!
+
+This is a test file, inside a test repository, for ilustrating the add-commit-push process in Git.
